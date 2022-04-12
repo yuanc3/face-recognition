@@ -12,7 +12,10 @@
 可以利用rgb，深度图像，红外三种concat在一起识别
 
 ## 数据集
+<<<<<<< HEAD
 1. 活体检测数据集
+=======
+>>>>>>> 947dd79b0cce2efefd56ca82fce5b4c1bec3cf02
 链接：https://pan.baidu.com/s/1-RDeHj0Z9bAVQzX1xrNU8Q  提取码：ay1y 
 CASIA-SURF数据集，包括了录制的视频、train、test、valid及其相应的标签。
 
@@ -20,7 +23,11 @@ CASIA-SURF数据集，包括了录制的视频、train、test、valid及其相�
 在lfw数据集上进行准确率测试
 
 ## 模型
+<<<<<<< HEAD
 1. FaceBagNet (用于活体检测)
+=======
+1. FaceBagNet
+>>>>>>> 947dd79b0cce2efefd56ca82fce5b4c1bec3cf02
     Patch-based feature:块特征
     Multi-stream fusion with MFE:多模态擦除式融合
 2. FaceNet （用于人脸识别）
